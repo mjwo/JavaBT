@@ -3,7 +3,7 @@ package org.mjwo.java.bt.tools;
 /**
  * create a torrent file.
  * 
- * @author malo jwo
+ * @author Malo jwo
  *
  */
 public class TorrentFile {
